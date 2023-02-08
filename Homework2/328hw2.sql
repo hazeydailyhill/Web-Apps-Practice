@@ -69,7 +69,7 @@ begin
 
 	else
 		select ttl_cost
-    into cost
+    		into cost
 		from title
 		where ttl_isbn = desired_isbn;
 
