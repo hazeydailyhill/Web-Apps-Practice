@@ -1,0 +1,34 @@
+/*
+Bryan Portillo and Haley Hill
+Last modified: 02/24/23
+*/
+
+
+section
+{
+    color: white;
+    background-color: blue;
+}
+
+p.hippo
+{
+    color: red;
+    background-color: yellow;
+}
+
+ul li
+{
+    color: purple;
+}
+
+h3, h4
+{
+    color: pink;
+    background-color: green;
+}
+
+#legend1, #legend2
+{
+    color: brown;
+    background-color: pink;
+}
