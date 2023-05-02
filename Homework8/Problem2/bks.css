@@ -1,0 +1,48 @@
+/*
+Haley Hill
+Last Modified: 04/03/23
+*/
+
+body {
+   color: #F5FFFF;
+   background-color: #3B4A08;
+   font-family: "cursive" sans-serif;
+   font-size: 110%;
+   font-style: oblique;
+}
+
+form {
+   color: #000000;
+   background-color:#ACBA97;
+   width: 50%;
+   margin-left: 25%;
+   margin-right: 25%;
+}
+
+input[type="text"]{
+   color: #2F4A08;
+   font-family: "monospace" sans-serif;
+   font-weight: bold;
+   font-style: normal;
+}
+
+h1, h2, h3{
+   font-family: "fantasy" sans-serif;
+   font-size: 130%;
+   font-variant: small-caps;
+   padding: 0.25em;
+   width: 50%;
+   margin-left: 25%;
+   margin-right: 25%;
+}
+
+a {
+  color: white;
+}
+
+img{
+  width: 50%;
+  height: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
